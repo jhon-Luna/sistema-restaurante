@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Maven (Compilación)
+target/
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
